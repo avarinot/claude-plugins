@@ -1,0 +1,8 @@
+{
+  "name": "qa-index",
+  "version": "0.1.0",
+  "author": { "name": "avarinot" },
+  "license": "MIT",
+  "description": "Index des questions/réponses de la session : une section par question, synthèse de la réponse, et /qa pour en relire une en entier",
+  "types": "./types/index.d.ts"
+}

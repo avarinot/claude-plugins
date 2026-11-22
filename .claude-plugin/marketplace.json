@@ -1,0 +1,12 @@
+{
+  "name": "avarinot",
+  "owner": { "name": "avarinot", "url": "https://github.com/avarinot" },
+  "description": "Personal Claude Code plugins: mods, skills and agents.",
+  "plugins": [
+    {
+      "name": "qa-index",
+      "source": "./plugins/qa-index",
+      "description": "Session Q&A index: one entry per question with the answer's gist, and /qa to reread any answer in full."
+    }
+  ]
+}
